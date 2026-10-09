@@ -8,3 +8,5 @@ Changing Pages Based on Requests
 Serving HTML Pages using Node.js
 Basic form submission.
 Today i learned : how to get data from form submission , and how to create a file through user form submission , and learned about synchronous and async. 
+
+Today i learned : how call stack, node api and event works,how to make custom moduls,how to create Read Update Delete file and how can we do through terminal this.
