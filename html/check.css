@@ -1,0 +1,15 @@
+h1{
+    color:blue;
+    background-color:gray;
+}
+
+.head{
+    border:2px solid black;
+    height:50px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+a{
+    font-size:39px;
+}
