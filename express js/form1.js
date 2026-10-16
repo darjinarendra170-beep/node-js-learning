@@ -3,6 +3,11 @@ import path from 'path'
 
 const app = express();
 
+const publicPath = path.resolve("public");
+console.log(publicPath);
+
+app.use(express.static(publicPath));
+
 app.get("/",(req,resp)=>{
     const absPath = path.resolve("view/home.html");
     
