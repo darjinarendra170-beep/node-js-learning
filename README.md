@@ -18,3 +18,5 @@ Today i learned: basic of express js , how it works , and how to import export m
 Today i learned: how to access html file in express, and how and why use 404 page.
 
 Today i learned : how to access css file, express.static , how middleware works and why this important, age check through middleware;
+
+Today I learned : how to build route middleware and example , build in middleware , external middleware;
