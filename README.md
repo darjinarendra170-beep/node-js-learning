@@ -20,3 +20,6 @@ Today i learned: how to access html file in express, and how and why use 404 pag
 Today i learned : how to access css file, express.static , how middleware works and why this important, age check through middleware;
 
 Today I learned : how to build route middleware and example , build in middleware , external middleware;
+
+Today i learned : MVC, dynamic route , how to get api data with dynamic route,;
+
