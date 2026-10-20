@@ -23,3 +23,4 @@ Today I learned : how to build route middleware and example , build in middlewar
 
 Today i learned : MVC, dynamic route , how to get api data with dynamic route,;
 
+Today i learned : how to install and can add database and collection . 
